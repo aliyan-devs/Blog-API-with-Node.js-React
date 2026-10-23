@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "the-art-of-slow-mornings",
+    "title": "The art of slow mornings",
+    "excerpt": "A gentler start to the day can change everything that comes after it.",
+    "category": "Wellbeing",
+    "author": "Maya Chen",
+    "publishedAt": "2026-10-18",
+    "readTime": 5,
+    "accent": "sunrise",
+    "content": [
+      "The first moments of a morning do not have to be a race. Before the notifications, the plans, and the day's small demands, there is a little space that belongs entirely to you.",
+      "Try leaving your phone in another room overnight. Make a cup of coffee or tea, open a window, and give yourself ten quiet minutes before you decide what the day needs from you.",
+      "Slow mornings are not about building a perfect routine. They are about finding one small ritual that helps you arrive in your own life feeling a little more present."
+    ]
+  },
+  {
+    "slug": "a-field-guide-to-city-gardens",
+    "title": "A field guide to city gardens",
+    "excerpt": "Tiny balconies, borrowed soil, and the joy of growing something where you are.",
+    "category": "Living",
+    "author": "Jonah Brooks",
+    "publishedAt": "2026-10-14",
+    "readTime": 7,
+    "accent": "garden",
+    "content": [
+      "A garden does not need a gate, a lawn, or even a patch of ground. A sunny windowsill and a few containers are enough to start noticing the seasons in a new way.",
+      "Choose plants for the light you have, not the light you wish you had. Herbs like mint and chives are forgiving companions, while leafy greens do well in shallow boxes with regular watering.",
+      "The best part is not the harvest. It is the small, ordinary pleasure of checking on something each day and watching it respond to your care."
+    ]
+  },
+  {
+    "slug": "making-room-for-a-little-creativity",
+    "title": "Making room for a little creativity",
+    "excerpt": "You do not need a grand plan to make something worth making.",
+    "category": "Creativity",
+    "author": "Avery Williams",
+    "publishedAt": "2026-10-10",
+    "readTime": 4,
+    "accent": "creative",
+    "content": [
+      "Creative work often begins before inspiration arrives. It begins with a blank page, a cleared corner of the table, or a first attempt that is allowed to be imperfect.",
+      "Set a timer for fifteen minutes and make something without deciding whether it is useful. Sketch a room, write down a memory, or rearrange a few objects until they feel right.",
+      "Small acts of making build their own momentum. Give them somewhere to land, and they will begin to find their way into the rest of your week."
+    ]
+  },
+  {
+    "slug": "the-quiet-pleasure-of-reading-together",
+    "title": "The quiet pleasure of reading together",
+    "excerpt": "A shared book can turn an ordinary evening into a favorite ritual.",
+    "category": "Culture",
+    "author": "Sam Rivera",
+    "publishedAt": "2026-10-06",
+    "readTime": 6,
+    "accent": "reading",
+    "content": [
+      "Reading together does not mean reading the same words at the same speed. It can be two people on the same sofa, each following a different story, with the occasional pause to share a sentence.",
+      "Pick a time that already has a natural pause in it. After dinner or just before bed works well, and even twenty minutes is enough to make the habit feel like a treat.",
+      "Over time, the ritual becomes its own kind of conversation: an easy, companionable quiet that asks nothing more than that you both show up."
+    ]
+  },
+  {
+    "slug": "weekend-walks-with-no-destination",
+    "title": "Weekend walks with no destination",
+    "excerpt": "Leave the route open and let the neighborhood surprise you.",
+    "category": "Outdoors",
+    "author": "Leila Hassan",
+    "publishedAt": "2026-10-02",
+    "readTime": 5,
+    "accent": "outdoors",
+    "content": [
+      "We get used to measuring a walk by where it takes us. But some of the best ones end exactly where they began, with a few extra details noticed along the way.",
+      "Pick a direction rather than a destination. Follow a street you have always passed, take the longer path through the park, or turn left just because the light looks nice.",
+      "Without a schedule to keep, a familiar place becomes interesting again. The walk is not a gap between activities; it is the whole point."
+    ]
+  },
+  {
+    "slug": "a-better-way-to-keep-notes",
+    "title": "A better way to keep notes",
+    "excerpt": "Collect the useful bits without turning your notebook into another inbox.",
+    "category": "Ideas",
+    "author": "Theo Martin",
+    "publishedAt": "2026-09-28",
+    "readTime": 8,
+    "accent": "notes",
+    "content": [
+      "A notebook works best when it is easy to use and even easier to return to. Instead of sorting every thought into a system, give each page a date and write down what you might want to remember.",
+      "At the end of the week, spend five minutes circling the ideas worth keeping. A short index at the back is enough to make those moments findable later.",
+      "The aim is not to build a perfect archive. It is to make a little space for the things that would otherwise disappear between one busy day and the next."
+    ]
+  },
+  {
+    "slug": "the-case-for-a-slower-supper",
+    "title": "The case for a slower supper",
+    "excerpt": "A simple meal feels different when there is time to enjoy it.",
+    "category": "Food",
+    "author": "Nina Patel",
+    "publishedAt": "2026-09-22",
+    "readTime": 6,
+    "accent": "supper",
+    "content": [
+      "Dinner does not need to become an event to feel special. A few ingredients, a table cleared of the day's clutter, and enough time to eat without rushing can be quite enough.",
+      "Cook something familiar and let one small detail make it feel new: herbs from the windowsill, bread warmed in the oven, or a bowl of fruit at the center of the table.",
+      "When we slow down enough to taste the food and listen to one another, supper becomes more than a task crossed off the list."
+    ]
+  },
+  {
+    "slug": "small-spaces-big-ideas",
+    "title": "Small spaces, big ideas",
+    "excerpt": "Thoughtful changes that make a compact home feel generous.",
+    "category": "Living",
+    "author": "Olivia Park",
+    "publishedAt": "2026-09-17",
+    "readTime": 7,
+    "accent": "spaces",
+    "content": [
+      "A small room can feel open when every object has a reason to be there. Start by noticing where light falls and which corners you actually use throughout the day.",
+      "Flexible furniture, a mirror opposite a window, and a clear path through the room can change how the whole space feels without adding a single extra square foot.",
+      "Work with what you have before buying something new. Often, moving one well-loved chair is all it takes to make a room feel like it has started over."
+    ]
+  },
+  {
+    "slug": "how-to-start-a-reading-journal",
+    "title": "How to start a reading journal",
+    "excerpt": "Keep the lines that stay with you, not a list of things to finish.",
+    "category": "Culture",
+    "author": "Elliot James",
+    "publishedAt": "2026-09-11",
+    "readTime": 5,
+    "accent": "journal",
+    "content": [
+      "A reading journal does not need ratings, deadlines, or a carefully designed template. One notebook and a sentence about what you have been reading are plenty.",
+      "Write down a passage you loved, a question that followed you after a chapter, or the person who recommended the book. Those details make the pages feel like your own.",
+      "There is no need to fill an entry every day. A journal is an invitation to remember your reading, not another rule to follow."
+    ]
+  },
+  {
+    "slug": "finding-focus-in-a-busy-week",
+    "title": "Finding focus in a busy week",
+    "excerpt": "A short list and a little breathing room can go a long way.",
+    "category": "Wellbeing",
+    "author": "Maya Chen",
+    "publishedAt": "2026-09-05",
+    "readTime": 6,
+    "accent": "focus",
+    "content": [
+      "When everything feels important, it helps to step back before trying to do more. Write down the tasks on your mind, then choose the one that would make the rest of the day feel lighter.",
+      "Make the first step small enough to begin now. Open the document, reply to one message, or clear the space where the work needs to happen.",
+      "Focus is not something we have to force out of ourselves. It is often what shows up after we make the next action clear and give it our attention."
+    ]
+  },
+  {
+    "slug": "the-joy-of-learning-something-new",
+    "title": "The joy of learning something new",
+    "excerpt": "Being a beginner is a good reason to start, not a reason to wait.",
+    "category": "Creativity",
+    "author": "Avery Williams",
+    "publishedAt": "2026-08-29",
+    "readTime": 4,
+    "accent": "learning",
+    "content": [
+      "There is a particular freedom in doing something you are not yet good at. You get to ask basic questions, try things out, and be surprised by small progress.",
+      "Find a low-pressure way to begin: a free class, a library book, or a friend who is happy to show you the basics. Twenty minutes of curiosity is plenty for the first day.",
+      "The goal does not have to be mastery. Sometimes the most valuable part is simply adding a new kind of joy to an otherwise familiar week."
+    ]
+  },
+  {
+    "slug": "keeping-a-little-space-for-rest",
+    "title": "Keeping a little space for rest",
+    "excerpt": "Rest is part of the plan, even when the list is not finished.",
+    "category": "Wellbeing",
+    "author": "Leila Hassan",
+    "publishedAt": "2026-08-21",
+    "readTime": 5,
+    "accent": "rest",
+    "content": [
+      "It is easy to think of rest as something we earn only after the work is done. But a day rarely arrives with every task neatly finished and a clear invitation to stop.",
+      "Choose a small, definite boundary: a real lunch break, a quiet walk after work, or an evening without opening your inbox again. Keeping it is a way of making room for tomorrow.",
+      "Rest does not have to be elaborate to matter. A few unhurried minutes can remind us that we are allowed to pause before everything is finished."
+    ]
+  }
+]
