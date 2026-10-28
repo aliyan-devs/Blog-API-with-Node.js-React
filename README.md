@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-The production React app is deployed at [https://blog-api-with-node-js-react.vercel.app](https://blog-api-with-node-js-react.vercel.app). For local development, the React app runs at `http://localhost:5173` and the API runs at `http://localhost:4000`. Vite proxies `/api` requests to the API during development.
+The temporary Vercel preview is available at [https://speedy-mesa-ux3jgyb.tmp.now](https://speedy-mesa-ux3jgyb.tmp.now); it expires shortly. A permanent production URL requires deploying through the linked Vercel account. For local development, the React app runs at `http://localhost:5173` and the API runs at `http://localhost:4000`. Vite proxies `/api` requests to the API during development.
 
 ## API
 
