@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-The React app runs at [http://localhost:5173](http://localhost:5173), and the API runs at [http://localhost:4000](http://localhost:4000). Vite proxies `/api` requests to the API during development.
+The production React app is deployed at [https://blog-api-with-node-js-react.vercel.app](https://blog-api-with-node-js-react.vercel.app). For local development, the React app runs at `http://localhost:5173` and the API runs at `http://localhost:4000`. Vite proxies `/api` requests to the API during development.
 
 ## API
 
