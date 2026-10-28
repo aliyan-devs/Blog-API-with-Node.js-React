@@ -56,3 +56,7 @@ npm run build
 ## Deployment
 
 Run the API with `npm start` from `server`, and build the frontend with `npm run build` from the project root. For a separately hosted API, set `VITE_API_BASE_URL` to its base URL when building the client.
+
+### Deploy to Vercel
+
+Import the repository into Vercel and use the repository root as the project root. The root [`vercel.json`](./vercel.json) builds the React app into `client/dist`, serves the Express API as a serverless function, and routes client-side pages back to the app. No environment variables are required for the bundled post data.

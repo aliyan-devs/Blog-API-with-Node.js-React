@@ -1,0 +1,15 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "client/dist",
+  "functions": {
+    "api/[...path].js": {
+      "includeFiles": "server/data/posts.json"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/posts/:slug",
+      "destination": "/index.html"
+    }
+  ]
+}
